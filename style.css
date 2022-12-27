@@ -1,0 +1,25 @@
+.broccolini_body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    color: darkgreen;
+}
+
+.broccolini {
+    width: 300px;
+    height: auto;
+    text-align: center;
+}
+
+.chickenbody {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: lightgoldenrodyellow;
+}
+
+.subhead {
+    font-weight: bold;
+    text-align:center;
+}
+
+h2.subhead {
+    
+}
