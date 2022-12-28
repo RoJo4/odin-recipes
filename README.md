@@ -4,7 +4,7 @@ I want to make it functional and I'm not so keen to race ahead but just making i
 
 Recipes included:
 
-    Simple Low-Tyramine Recipes 
+    Simple Recipes 
 
     - Yoghurt smoothie 
     
